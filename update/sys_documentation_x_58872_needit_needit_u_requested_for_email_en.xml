@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_other" label="その他" language="en" table="x_58872_needit_needit">
+    <sys_documentation element="u_requested_for_email" label="メールのリクエスト" language="en" table="x_58872_needit_needit">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_other</element>
+            <element>u_requested_for_email</element>
             <help/>
             <hint/>
-            <label>その他</label>
+            <label>メールのリクエスト</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <plural>その他s</plural>
+            <plural>メールのリクエストs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-17 00:46:07</sys_created_on>
-            <sys_id>c0667d411b4300104da94375cc4bcbb3</sys_id>
+            <sys_created_on>2020-02-17 04:09:42</sys_created_on>
+            <sys_id>4cbd9ec51bc300104da94375cc4bcbab</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>その他</sys_name>
+            <sys_name>メールのリクエスト</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_documentation_x_58872_needit_needit_u_other_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_u_requested_for_email_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-17 00:46:07</sys_updated_on>
+            <sys_updated_on>2020-02-17 04:09:42</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
